@@ -2,6 +2,10 @@
 
 A toolbar of buttons and shortcuts for Scribe
 
+**This is a fork that intends to solve just specific issues of integrating with MM:**
+
+* Added deamdify to be able to use in commonJS build without global transformation that breaks other libraries.
+
 ## Installation
 ```
 bower install scribe-plugin-toolbar
